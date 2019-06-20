@@ -1,0 +1,92 @@
+body{
+font-family: 'Noto Sans HK', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.imagen-fondo{
+
+  background-image: url('../img/bg_hero.png');
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #ffffff;
+  padding: 15.25rem 6.125rem;
+
+}
+.textoimgfondo{
+  padding-top:  300px;
+  margin-top: 200px;
+  line-height: 88px;
+
+}
+.navegador {
+  background-color: #660066;
+}
+.primerh1{
+  font-family: 'Oswald';
+  font-weight: 72;
+  }
+.segundoh1{
+  font-family: 'Oswald';
+  font-weight: bold;
+}
+.primerh1, .segundoh1{
+  color: #ffffff;
+}
+.elbr{
+  color: #ffffff;
+}
+.colorfooter{
+  background-color: #660066;
+}
+.elpdetextos{
+  font-family: 'Opens Sans';
+  font-weight: lighter 16px;
+  text-align: left;
+  line-height: 40px;
+}
+.elh3textos{
+  font-family: 'Opens Sans';
+  font-weight:bolder 25px;
+  text-align: center;
+  line-height: 50px;
+
+}
+.hrdetextos{
+  border: 1px solid #373A3C;
+  width: 115px;
+}
+.hryosoy{
+  border: 1px solid #ffffff;
+  width: 200px;
+}
+.elh1experiencia{
+  font-family: 'Oswald';
+  font-weight: bold;
+  color: #373A3C;
+}
+.elh2experiencia{
+  font-family: 'Oswald';
+  font-weight: bolder;
+  color: #373A3C;
+}
+.elh3experiencia{
+  font-family: 'Opens Sans';
+  font-weight: lighter;
+  color: #373A3C;
+}
+.hrtrabajo{
+  border: 1px solid #373A3C;
+  width: 115px;
+}
+.mistrabajos{
+  background-color: #660066;
+}
+.elh1mistrabajos{
+  font-family: 'Oswald';
+  font-weight: bolder;
+  color: #ffffff;
+}
+.meet_coffee{
+ display: block;
+}
